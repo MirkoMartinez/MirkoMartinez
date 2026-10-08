@@ -1,6 +1,6 @@
-## Hi I'm Mirko :fox_face:
+## Mirko Martinez :fox_face:
 
-![Gaboso](https://github.com/MirkoMartinez/MirkoMartinez/blob/master/github_cover.png "MirkoMartinez")
+![MirkoMartinez](https://github.com/MirkoMartinez/MirkoMartinez/blob/main/github_cover.png "MirkoMartinez")
 
 :computer: _Técnico Superior en
 Programación e Innovación Tecnológica_  :desert_island:Posadas, Misiones :argentina:
@@ -42,4 +42,4 @@ Programación e Innovación Tecnológica_  :desert_island:Posadas, Misiones :arg
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ---
-⭐️ From [Gaboso](https://github.com/Gaboso)
+
